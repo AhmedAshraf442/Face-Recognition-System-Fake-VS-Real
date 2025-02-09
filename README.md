@@ -21,7 +21,7 @@ The **Face-Recognition-System-Fake-VS-Real** project tackles the challenge of di
 
 Watch the demonstration video below for a quick walkthrough of the project:
 
-[![Watch the Video](link-to-thumbnail-image)]([link-to-video](https://drive.google.com/file/d/1DzK-9MhFafk4srEm-7WIandsxiK2zMTJ/view?usp=sharing))
+[Watch the Video](https://drive.google.com/file/d/1DzK-9MhFafk4srEm-7WIandsxiK2zMTJ/view?usp=sharing)
 
 ## Installation
 
